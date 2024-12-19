@@ -1,4 +1,4 @@
-# sql-project
+# SQL-project on pizza sales
 sql project on pizza sales
 objective:- The primary objective of the project is to simulate basic functionalities of a SQL database like parsing SQL queries, managing schema metadata, and performing CRUD (Create, Read, Update, Delete) operations.
 steps:-  Step 1 - Add SetDacVersion. sql to project.
